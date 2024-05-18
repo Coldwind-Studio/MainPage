@@ -1,8 +1,10 @@
 # 秋凌烟｜QiuLingYan
-![Stars](http://img.shields.io/github/stars/Qiu-LingYan.svg)
 
 ## 自我介绍
+
 hello！我是**QiuLingYan**，坐标中国南方某城市。平日里大家习惯叫我qly。
+
+我属于工作室里的leader兼Python主刀（挨打
 
 平日里喜欢**写写代码**（比起写应该改更合适），**刷视频**（被打）。
 
@@ -10,4 +12,6 @@ hello！我是**QiuLingYan**，坐标中国南方某城市。平日里大家习�
 
 现在嘛，初二了，梦想就是当程序员（其实网安也很不错）。钱一般都只花在服务器上（为事业花钱）。
 
-自己也有了一个小团队，[Coldwind-Studio](https://coldwind.link/)，也还算可以。
+话说编程的启蒙，我还要谢谢当年hack.chat里骂我的那几个人（），是他们让我懂得了很多道理（当时自己也很天真，啥也不懂），开工作室也是当年的影响。
+
+希望工作室一直做下去。
