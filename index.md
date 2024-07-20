@@ -13,5 +13,17 @@
 - [剪辑：七月的风](/julyswind.md)
 - [剪辑：西格](/xige.md)
 
+### Origin Chat
+[Origin Chat](https://chat.coldwind.link)正式面对公众开放！本聊天室采用hack.chat框架作为基础，在此基础上增添许多有声有色的功能。聊天室属于黑客风格的极简聊天室，大气且简约。
+
+### 冷风云
+[冷风云](https://idc.coldwind.link/)，这是一家以**无需实名认证、价格低廉**为卖点的云服务器商，隶属于我们工作室。目前我们开通了推介计划，**邀请用户购买即可赚钱**，闲暇时间赚几个奶茶钱犒劳自己！
+
 ### 未来计划
-未来三个月，工作室将集中精力开发[Origin Chat](https://qiulingyan.top/archives/202405131445)，力争在暑假结束前向公众开放。
+None.
+
+### 友情链接
+[QiuLingYan的小站](https://qiulingyan.top/)
+[紗月 Blog](https://zbhy.fun/)
+[Origin Chat](https://chat.coldwind.link)
+[冷风云](https://idc.coldwind.link/)
